@@ -3,6 +3,12 @@
     text-align: center;
 }
 
+p {
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+}
+
 .l1{
     display: flex;
     justify-content: center;
@@ -44,31 +50,6 @@
     box-shadow: 8px 8px 10px 1px rgb(54, 102, 199);
 }
 
-.box2 {
-    background-color: rgb(215, 213, 80);
-    border-top: 10px;
-    border-bottom: 10px;
-    margin-top: 0px;
-    margin-left: 40px;
-    border-radius: 3px;
-}
-
-.box2:hover {
-    box-shadow: 18px 18px 15px 1px rgb(198, 106, 52);
-}
-
-.box3 {
-    background-color: rgb(203, 95, 138);
-    
-    border-top: 10px;
-    border-bottom: 10px;
-    margin-top: 0px;
-    margin-left: 40px;
-}
-
-.box3:hover {
-    box-shadow: 28px 28px 20px 1px rgb(0, 255, 255);
-}
 
 .box4 {
     background-color: rgb(3, 84, 84);
@@ -79,21 +60,7 @@
 }
 
 .box4:hover {
-    box-shadow: 8px 8px 10px 1px rgb(113, 227, 179) ;
-}
-
-.box5 {
-    background-color: rgb(155, 68, 126);
-    
-    border-top: 10px;
-    border-bottom: 10px;
-    margin-top: 0px;
-    margin-left: 40px;
-    border-radius: 3px;
-}
-
-.box5:hover {
-    box-shadow: 18px 18px 20px 1px rgb(238, 112, 186);
+    box-shadow: 8px 8px 10px 1px rgb(113, 227, 179), -8px -8px 10px 1px rgb(113, 227, 179) ;
 }
 
 .box6 {
