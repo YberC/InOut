@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid 2px rgb(187, 186, 186);
+    text-align: center;
+}
+
+.columna3 {
+    background-color: rgba(235, 229, 229, 0.872);
+}
+
+.columna5 {
+    background-color: rgba(235, 229, 229, 0.872);
+}
+
+.columna7 {
+    background-color: rgba(235, 229, 229, 0.872);
+}
+
+.pircing {
+    background-color: rgba(235, 229, 229, 0.872);
+}
+
+.free {
+    background-color: aqua;
+}
+
+.basic {
+    background-color: rgb(64, 240, 29);
+}
+
+.standart {
+    background-color: #ffea00;
+}
+
+.premium {
+    background-color: red;
+}
