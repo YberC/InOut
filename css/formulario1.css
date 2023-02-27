@@ -1,19 +1,22 @@
    
-   h1{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    font-size: 1.9em;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   }
+   
+   .form-login {
+    width: 400PX;
+    height: 340px;
+    margin: auto;
+    margin-top: 180px;
+    padding: 20px 30px;
+    color: white;
+    }
 
    .form-box {
+    border-top: 4px solid #017bab;
     display: flex;
     justify-content: center;
     text-align: center;
     align-items: center;
     font-size: 1.2em;
+    box-shadow: 7px 13px 37px #000;
    }
 
    form {
@@ -66,4 +69,10 @@
     border-radius: 20px;
 }
 
+.selectstyle {
+    padding: 4px;
+    border-radius: 4px;
+    color: rgb(85, 85, 96);
+    cursor: pointer;
+}
 
