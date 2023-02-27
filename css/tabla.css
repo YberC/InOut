@@ -38,3 +38,7 @@ th, td {
 .premium {
     background-color: red;
 }
+
+.border-inferior {
+    border-top: 1px dotted #94938f;
+}
