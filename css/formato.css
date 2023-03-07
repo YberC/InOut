@@ -23,8 +23,8 @@ body {
 .tit {
     color:#5a6862;
     padding-bottom: 30px;
-    justify-content: center;  
-    margin-top: center;    
+    margin-top: center; 
+    text-align: center;   
 } 
 
 th, td {
@@ -33,12 +33,12 @@ th, td {
 }
 
 .T {
-    background-color: rgb(155, 244, 214);
-    
+    background-color: rgb(155, 244, 214); 
 }
 
 .D {
     background-color: rgb(213, 250, 238);
-    
 }
+
+
 
