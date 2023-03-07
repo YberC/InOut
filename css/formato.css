@@ -15,9 +15,16 @@ table {
 
 body {
     justify-content: center;  
-    margin-top: 50px;
+    margin-top: center;
     margin-inline: 30%;
 }
+
+.tit {
+    color:#5a6862;
+    padding-bottom: 30px;
+    justify-content: center;  
+    margin-top: center;    
+} 
 
 th, td {
     border: solid 1px rgb(129, 129, 130);

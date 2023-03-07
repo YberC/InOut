@@ -9,72 +9,47 @@ th, td {
 
 .columna3 {
     background-color: rgba(235, 229, 229, 0.872);
-<<<<<<< HEAD
     font-size: 20px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .columna5 {
     background-color: rgba(235, 229, 229, 0.872);
-<<<<<<< HEAD
     font-size: 20px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .columna7 {
     background-color: rgba(235, 229, 229, 0.872);
-<<<<<<< HEAD
     font-size: 20px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .pircing {
     background-color: rgba(235, 229, 229, 0.872);
-<<<<<<< HEAD
     font-size: 25px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .free {
     background-color: aqua;
-<<<<<<< HEAD
     font-size: 25px;
   
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .basic {
     background-color: rgb(64, 240, 29);
-<<<<<<< HEAD
     font-size: 25px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .standart {
     background-color: #ffea00;
-<<<<<<< HEAD
     font-size: 25px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .premium {
     background-color: red;
-<<<<<<< HEAD
     font-size: 25px;
-=======
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
 }
 
 .border-inferior {
     border-top: 1px dotted #94938f;
-<<<<<<< HEAD
 }
 
 input:hover [type="sumbit"]{
@@ -82,6 +57,3 @@ input:hover [type="sumbit"]{
     transform: translateY(-100%);
     
 }
-=======
-}
->>>>>>> bd94bc265d84bd85797de47d143f98d5260068fa
