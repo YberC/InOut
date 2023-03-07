@@ -10,7 +10,8 @@ table {
 
 body {
     justify-content: center;  
-     
+    margin-top: 50px;
+    margin-inline: 30%;
 }
 
 th, td {
