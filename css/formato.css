@@ -1,0 +1,30 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+body {
+    justify-content: center;  
+     
+}
+
+th, td {
+    border: solid 1px rgb(129, 129, 130);
+    text-align: center;
+}
+
+.T {
+    background-color: rgb(155, 244, 214);
+    
+}
+
+.D {
+    background-color: rgb(213, 250, 238);
+    
+}
+
