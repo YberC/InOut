@@ -1,0 +1,78 @@
+   
+   
+   .form-login {
+    width: 400PX;
+    height: 340px;
+    margin: auto;
+    margin-top: 180px;
+    padding: 20px 30px;
+    color: white;
+    }
+
+   .form-box {
+    border-top: 4px solid #017bab;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 1.2em;
+    box-shadow: 7px 13px 37px #000;
+   }
+
+   form {
+    margin-top: 100px;
+    border: 1px solid rgb(162, 200, 247);
+    width: 500px;
+   }
+
+   legend {
+    background-color: rgb(72, 181, 232);
+    color: white;
+    height: 50px;
+    font-size: 1.2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+
+   }
+
+   .legend-tex {
+    padding: 20px;
+    font-size: 1.3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+   label {
+    display: block;
+    color: rgb(96, 85, 87);
+    margin-top: 20px;
+    
+   }
+
+   textarea {
+   resize: none;
+   cursor: pointer;
+   }
+
+   .opcion {
+    color: rgb(85, 85, 96);
+   }
+
+   input [type="sumbit"]{
+    width: 50px;
+    height: 40px;
+    background:  rgb(72, 181, 232);
+    border: none;
+    color: white;
+    margin-bottom: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.1em;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.selectstyle {
+    padding: 4px;
+    border-radius: 4px;
+    color: rgb(85, 85, 96);
+    cursor: pointer;
+}
+

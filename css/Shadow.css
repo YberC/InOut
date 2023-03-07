@@ -1,0 +1,124 @@
+
+body {
+    background-color: rgb(241, 244, 151);
+}
+
+
+.h1{
+    text-align: center;
+}
+
+p {
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+}
+
+.l1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.l2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.l3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+
+}
+
+.box1 {
+    background-color: aqua;
+    margin-top: 0px;
+    margin-left: 40px;
+    border-radius: 3px;
+}
+
+.box1:hover {
+    box-shadow: 8px 8px 10px 1px rgb(54, 102, 199);
+}
+
+
+.box4 {
+    background-color: rgb(3, 84, 84);
+    
+    margin-top: 0px;
+    margin-left: 40px;
+    border-radius: 3px;
+}
+
+.box4:hover {
+    box-shadow: 8px 8px 10px 1px rgb(113, 227, 179), -8px -8px 10px 1px rgb(113, 227, 179) ;
+}
+
+.box6 {
+    background-color: rgb(133, 79, 235);
+    
+    border-top: 10px;
+    border-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 40px;
+   
+}
+
+.box6:hover {
+    box-shadow: 28px 28px 30px 1px rgb(184, 110, 240);
+}
+
+.box7 {
+    background-color: rgb(125, 134, 246);
+    
+    border-top: 10px;
+    border-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 40px;
+   
+}
+
+.box7:hover {
+    box-shadow: 8px 8px 10px 1px rgb(47, 91, 248) inset;
+}
+
+.box8 {
+    background-color: rgb(215, 80, 170);
+    
+    border-top: 10px;
+    border-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 40px;
+   
+}
+
+.box8:hover {
+    box-shadow: 18px 18px 20px 1px rgb(110, 13, 13) inset;
+}
+
+.box9 {
+    background-color: rgb(223, 143, 68);
+    
+    border-top: 10px;
+    border-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 40px;
+   
+}
+
+.box9:hover {
+    box-shadow: 28px 28px 30px 1px rgb(227, 241, 66) inset;
+}
