@@ -12,10 +12,12 @@ h1{
     font-family: 'GeneraleStationRegular';
    font-weight: normal;
    font-style: normal; 
+   font-size: 40px;
 }
 
-.fuente-g.html{
+.fuenteg{
     font-family: 'Cinzel'; 
+    font-size: 30px;
 }
 
 @font-face {
@@ -31,14 +33,16 @@ h1{
          url('../fonts/cinzel-v19-latin-700.svg#Cinzel') format('svg'); /* Legacy iOS */
   }
 
-  .fuente-d.html{
+  .fuented{
     font-family: 'WaltographRegular';
     font-weight: normal;
     font-style: normal;
+    font-size: 30px;
   }
 
-  .fuente-n.html{
-    font-family: 'Bebas Neue' 
+  .fuenten{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
   }
 
   @font-face {

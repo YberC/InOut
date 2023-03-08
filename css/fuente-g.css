@@ -15,15 +15,6 @@
     font-size: 10em;
 }
 
-body{
-    margin: 0;
-    padding: 0;
-    background-image: url('../images/GOT.jpg');
-    background-size: cover;
-    
-}
-
-/* cinzel-700 - latin */
 @font-face {
     font-family: 'Cinzel';
     font-style: normal;
@@ -36,4 +27,12 @@ body{
          url('../fonts/cinzel-v19-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/cinzel-v19-latin-700.svg#Cinzel') format('svg'); /* Legacy iOS */
   }
-  
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/GOT.jpg');
+    background-size: cover;
+    
+}
+

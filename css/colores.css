@@ -15,20 +15,20 @@
 
 .red{
     background-color: red;
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
 }
 
 .orange{
     background-color: rgb(255,129,0);
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
 }
 
 .yellow{
     background-color: #ffff00;
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
 }
 
 .colores2{
@@ -41,20 +41,23 @@
 
 .blue{
     background-color: blue;
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
+    border-radius: 20px;
 }
 
 .violet{
     background-color: rgb(120,40,140);
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
+    border-radius: 20px;
 }
 
 .green{
     background-color: #008000;
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
+    border-radius: 20px;
 }
 
 .red:hover{
