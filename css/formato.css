@@ -14,6 +14,16 @@ table {
     
 }
 
+<<<<<<< HEAD
+=======
+
+body {
+    justify-content: center;  
+    margin-top: center;
+    margin-inline: 30%;
+}
+
+>>>>>>> e78d5cc70e862bdf946c73836f827ef0ba2fe0e8
 .tit {
     color:#5a6862;
     padding-bottom: 30px;
