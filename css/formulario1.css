@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+
 *{
     margin: 0;
     padding: 0;
@@ -40,46 +37,33 @@
     object-fit: cover;
    }
 
-<<<<<<< HEAD
-=======
-=======
    
    
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+
    .form-login {
     width: 400PX;
     height: 340px;
     margin: auto;
-<<<<<<< HEAD
+
     margin-top: 20px;
     padding: 20px 30px;
     color: white;
     
-=======
-<<<<<<< HEAD
+
     margin-top: 20px;
     padding: 20px 30px;
     color: white;
     
-=======
-    margin-top: 180px;
-    padding: 20px 30px;
-    color: white;
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+
     }
 
    .form-box {
     border-top: 4px solid #017bab;
-<<<<<<< HEAD
+
     border-bottom: 4px solid #017bab;
-=======
-<<<<<<< HEAD
+
     border-bottom: 4px solid #017bab;
-=======
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+
     display: flex;
     justify-content: center;
     text-align: center;
@@ -89,7 +73,7 @@
    }
 
    form {
-<<<<<<< HEAD
+
     margin-top: 10px;
     border: 1px solid rgb(162, 200, 247);
     width: 500px;
@@ -103,58 +87,23 @@
     display: flex;
     flex-direction: column;
 }
-=======
-<<<<<<< HEAD
-    margin-top: 10px;
-    border: 1px solid rgb(162, 200, 247);
-    width: 500px;
-    position: relative;
-    background: rgba(225, 225, 225, 0.15);
-    backdrop-filter: blur(25px);
-    border: 1px solid rgba(225, 225, 225, 0.5);
-    border-bottom: 1px solid rgba(225, 225, 225, 0.25);
-    border-left: 1px solid rgba(225, 225, 225, 0.25);
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-}
-=======
-    margin-top: 100px;
-    border: 1px solid rgb(162, 200, 247);
-    width: 500px;
-   }
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
 
    legend {
     background-color: rgb(72, 181, 232);
     color: white;
     height: 50px;
     font-size: 1.2em;
-<<<<<<< HEAD
-    font-family: Georgia, 'Times New Roman', Times, serif;
-=======
-<<<<<<< HEAD
-    font-family: Georgia, 'Times New Roman', Times, serif;
-=======
-    font-family: Georgia, 'Times New Roman', Times, serif;   
 
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
    }
 
    .legend-tex {
     padding: 20px;
     font-size: 1.3em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
    }
 
    label {
@@ -178,18 +127,15 @@
     height: 40px;
     background:  rgb(72, 181, 232);
     border: none;
-<<<<<<< HEAD
+
     outline: none;
     cursor: pointer;
     background: linear-gradient(0deg,#2c3c99,#00b0ff);
-=======
-<<<<<<< HEAD
+
     outline: none;
     cursor: pointer;
     background: linear-gradient(0deg,#2c3c99,#00b0ff);
-=======
->>>>>>> dbcb08df18ced76ae05a33a7d20695fe7683592f
->>>>>>> 0587c75e0ca2768fe090d2c27a0e4bd41d645c1f
+
     color: white;
     margin-bottom: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
