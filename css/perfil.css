@@ -138,6 +138,7 @@ body {
     color: #644651;
     font-size: 0.85em;
     transition: 0.5s;
+    opacity: 0;
     transition-delay: 0.5s;
 }
 
