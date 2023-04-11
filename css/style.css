@@ -1,19 +1,18 @@
-/*Estoy utilizando elementos html */
+
 h1 {
-    /*propiedades*/
+   
     text-align: center;
     
 }
 h2 {
     text-align: center;
-    color:rgb(51, 51, 43); 
+    color:rgb(20, 20, 2); 
 }
 
 .selector-clase{
     color:rgb(32, 139, 38)
 }
-/*selector de clase hace referencia a alguna fuente especial*/
-/*selector de clase atado a un elemento li., ., p.,....*/
+
 p.selector-clase {
     color:violet
 }
@@ -22,7 +21,7 @@ li.selector-clase {
 }
 
 body{
-    background-image: url('../images/fondop.png');
+    background-image: url('../images/fondos.png');
     background-size: cover;
 }
 
@@ -46,10 +45,14 @@ body{
 
 .intro{
     font-family: 'CoupeurBricoleurDOWN';
-   font-weight: normal;
-   font-style: normal;
+    font-weight: normal;
+    font-style: normal;
 }
 
 li {
-    font-size: 40px;
+    font-size: 30px;
+}
+
+li:hover {
+    color: rgb(89, 163, 248);
 }
