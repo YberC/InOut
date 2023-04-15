@@ -95,8 +95,8 @@ li:hover {
     }
     .img-1 {
         visibility: visible;
-        position: absolute;
-        margin-top: -100px;
+        position: fixed;
+        margin-top: -200px;
     }
     .box-hidden {
         display: none;
@@ -113,8 +113,11 @@ li:hover {
         background: #6d6464;
     }
     .menu1 {
+        position:absolute;
         margin-top: 20px;
-        margin-right: 50%;
+
+
+        
     }
     li:hover {
         background: rgb(180, 243, 206);
