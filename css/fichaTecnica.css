@@ -38,6 +38,9 @@ button {
     margin-left: 23%;
     margin-top: 5px;
 }
+.pie {
+    visibility: hidden;
+}
 button:hover {
     border-radius: 8px;
     border: 8px double #edfc6d;

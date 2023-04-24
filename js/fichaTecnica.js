@@ -1,6 +1,6 @@
 function verFicha(){
 
-let nombre,linea,valor,cantidad,vt,codigo,caracteristicas,marca
+let nombre,linea,valor,cantidad,vt,codigo,caracteristicas,marca,valorT
 
 nombre = document.getElementById("nombre").value
 console.log(nombre)
@@ -24,6 +24,7 @@ cantidad = document.getElementById("cantidad").value
 console.log(cantidad)
 
 vt = cantidad * valor
+valorT = cantidad * valor
 
 document.getElementById("prod").innerHTML = "<h1><b>Nombre de equipo: "+ nombre+"</b></h1>"
 document.getElementById("line").innerHTML = "<h1><b>Línea de trabajo: "+ linea+"</b></h1>"

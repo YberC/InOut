@@ -8,10 +8,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #575555;
+    background-image: url("../images/feria.jpg");
+    background-size: cover;
 }
 
-.img {
+.img {  
     height: 100px;
     width: 90%;
     
@@ -19,7 +20,7 @@ body {
 }
 
 label {
-    color: #575555;  
+    color:transparent;  
 }
 
 nav {
@@ -39,7 +40,7 @@ nav {
     border-radius: 0;
     font-size: 1.2em;
     padding: 0;
-    background: rgb(253,253,253);
+    background: rgb(253,253,253,.253);
     border-right: 2px solid #37b8f3;
     border-left: 2px solid #37b8f3;
 }
@@ -86,7 +87,7 @@ li:hover {
         border-radius: 0;
         font-size: 1.2em;
         padding: 5px;
-        background: rgb(114, 188, 248);
+        background: rgb(114, 188, 248,.3);
         border-bottom: 2px solid #97f385;
         border-top: 2px solid #b4f3b4;
     }
@@ -95,8 +96,8 @@ li:hover {
     }
     .img-1 {
         visibility: visible;
-        position: absolute;
-        margin-top: -100px;
+        position: fixed;
+        margin-top: -200px;
     }
     .box-hidden {
         display: none;
@@ -110,11 +111,14 @@ li:hover {
         justify-content: left;
         align-items: center;
         margin-left: 50px;
-        background: #6d6464;
+        background-image: url("../images/fond.jpg");
+        background-size: cover;
+        
     }
     .menu1 {
+        position:absolute;
         margin-top: 20px;
-        margin-right: 50%;
+        
     }
     li:hover {
         background: rgb(180, 243, 206);
